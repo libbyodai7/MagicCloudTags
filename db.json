@@ -1,6 +1,7 @@
-{
-  "tag_id": [],
-  "linked_media":[],
-  "mediaType":[],
-  "Created_date":[]
-}
+
+[{
+  "tag_id":{},
+  "linked_media":{},
+  "mediaType":{},
+  "Created_date":{}
+}]
